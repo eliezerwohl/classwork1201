@@ -1,4 +1,4 @@
-[
+window.users = [
   {
     "coordinates": null,
     "favorited": false,
